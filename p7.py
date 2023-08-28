@@ -1,4 +1,4 @@
-# demo pop --> Procedure oriented programming
+#demo pop --> Procedure oriented programming
 
 def f1():
 	print("welcome to lect 1")
