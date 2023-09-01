@@ -1,4 +1,4 @@
-#wapp to read two integers and add them
+#Python Program to read two integers and add them
 
 And = int(input("enter first integer "))
 oR = int(input("enter second integer "))
