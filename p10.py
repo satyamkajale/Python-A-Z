@@ -1,4 +1,4 @@
-# wapp to read two numbers from the user and exchange their values
+# Python Program to read two numbers from the user and exchange their values
 
 print("enter first number ")
 s1 = input()
