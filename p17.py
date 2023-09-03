@@ -1,4 +1,4 @@
-# wapp to read length and breadth of rect 
+# Python Program to read length and breadth of rect 
 # find and print area and perimeter
 
 length = float(input("enter length "))
