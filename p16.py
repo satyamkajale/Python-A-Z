@@ -1,4 +1,4 @@
-# wapp to read three integers and find their sum and product
+# Python Program to read three integers and find their sum and product
 
 print("enter first integer ")
 s1 = input()
