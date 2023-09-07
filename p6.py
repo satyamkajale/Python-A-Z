@@ -1,4 +1,4 @@
-#wapp to accept as input three integers and add them
+#Python Program to accept as input three integers and add them
 
 print("enter first integer ")
 s1 = input()
