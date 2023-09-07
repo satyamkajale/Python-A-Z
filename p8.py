@@ -1,4 +1,4 @@
-# wapf to add two integers
+# Python Program to add two integers
 
 def add(n1, n2):
 	res = n1 + n2
