@@ -1,4 +1,4 @@
-#Procedure oriented programming
+# Procedure oriented programming
 
 def f1():
 	print("welcome to lect 1")
