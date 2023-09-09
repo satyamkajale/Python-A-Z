@@ -1,4 +1,4 @@
-# demo of different data types
+#Different data types
 
 a = 10
 print(a, type(a))
