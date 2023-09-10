@@ -1,4 +1,4 @@
-# wapp to read two numbers and exchange / swap their values
+# Python Program to read two numbers and exchange / swap their values
 
 n1 = float(input("enter first number "))
 n2 = float(input("enter second number "))
