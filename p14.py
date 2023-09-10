@@ -1,4 +1,4 @@
-# wapp to read temperature in farenheit and convert into celcius
+# Python program to read temperature in farenheit and convert into celcius
 
 far = float(input("enter amount in far "))
 cel = (far - 32) * 5/9
