@@ -1,4 +1,4 @@
-# wapp to read amount in dollars and convert into rupees
+# Python Program to read amount in dollars and convert into rupees
 # if possible then print currency symbol
 
 
