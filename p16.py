@@ -1,16 +1,9 @@
-# Python Program to read three integers and find their sum and product
+# wapp to read radius of circle from user and print and circumference of circle
 
-print("enter first integer ")
-s1 = input()
-n1 = int(s1)
+radius = float(input("enter radius of circle "))
 
-s2 = input("enter second integer ")
-n2 = int(s2)
+area = 3.14159 * radius ** 2
+circumference = 2 * 3.14159 * radius
 
-n3 = int(input("enter third integer "))
-
-sum = n1 + n2 + n3
-product = n1 * n2 * n3
-
-print("sum = ", sum)
-print("product = ", product)
+print("area = ", round(area,2))
+print("circumference = ", round(circumference,2))
