@@ -1,4 +1,4 @@
-# wapp to read two integers and find the minimum of two.
+# Python Program to read two integers and find the minimum of two.
 
 n1 = int(input("enter first integer "))
 n2 = int(input("enter second integer "))
