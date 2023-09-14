@@ -1,4 +1,4 @@
-# Python Program to read an integer from the user and find if the number is even or odd
+# Python Program to read an integer from the user and find if the number is Even or odd
 
 num = int(input("enter an integer "))
 
