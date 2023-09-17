@@ -1,4 +1,4 @@
-# wapp to read an integer and find the sum of digits
+# Python Program to read an integer and find the sum of digits
 # i/p: 154  1 + 5 + 4 = 10
 
 num = int(input("enter an integer "))
