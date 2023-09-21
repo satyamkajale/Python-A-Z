@@ -1,4 +1,4 @@
-#wapp to read +ve integer and find the reverse
+# wapp to read +ve integer and find the reverse
 # 8732   2378
 
 num = int(input("enter a +ve integer "))
