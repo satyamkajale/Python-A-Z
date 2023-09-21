@@ -1,4 +1,4 @@
-# wapp to read a year and find if its a leap year or not
+# Python Program to read a year and find if its a leap year or not
 # every 4 years / multiple of 4 / divisible by 4 --> %
 
 year = int(input("enter year "))
