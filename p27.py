@@ -1,4 +1,4 @@
-# wapp to find the sum of first "n" +ve integers--> using for loop
+# Python Program to find the sum of first "n" +ve integers--> using for loop
 #i/p: 5    1+2+3+4+5 = 15
 
 num = int(input("enter integer"))
