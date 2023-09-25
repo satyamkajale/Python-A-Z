@@ -1,4 +1,4 @@
-# python to find the factorial of the given number
+# python program to find the factorial of the given number
 # 0! = 1	1! = 1	 	2! = 2	  3! = 6
 
 num = int(input("enter the integer "))
