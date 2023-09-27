@@ -1,4 +1,4 @@
-#This program will add two numbers
+#This Program will add two numbers
 
 n1 = 10               #Dynamically typed language(no need to write datatype)
 n2 = 25
