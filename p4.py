@@ -1,4 +1,4 @@
-#This will add two integers given by user
+#This program will add two integers given by user
 
 print("Enter first number")
 s1 = input()
