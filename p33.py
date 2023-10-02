@@ -1,4 +1,4 @@
-# wapp to read a string and find if its palindrome
+# Python Program to read a string and find if its palindrome
 # string that reads the same from --> and <--
 # nitin, madam
 
