@@ -1,4 +1,4 @@
-# wapp to read a string and count the number of lowercase letters,
+# Python Program to read a string and count the number of lowercase letters,
 # number of uppercase letters , number of digits and other characters
 
 s1 = input("enter a string ")
