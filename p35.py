@@ -1,4 +1,4 @@
-# wapp to read username and password and hide password
+# Python Program to read username and password and hide password
 # if username is kamal and password is classes then o/p success else failure
 
 from getpass import *
