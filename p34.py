@@ -1,4 +1,4 @@
-# wapp to read username and password
+# Python Program to read username and password
 # if username is kamal and password is classes then o/p success else failure
 
 username = input("enter username ")
