@@ -1,4 +1,4 @@
-# wapp to count the number of vowels and consonants
+# Python Program to count the number of vowels and consonants
 
 s1 = input("enter a string ")
 
